@@ -2,10 +2,13 @@
 Track my progress through The Odin Projects curriculum.
 
 
-#### Advanced HTML and CSS Course
+## Advanced HTML and CSS Course
 
-##### Transitions
+##### Transforms - total time 1hr
 
+  - [x] No additional assignments to read or complete.
+---
+##### Transitions - total time 1.5hr
 
   - [x] Read the MDN article for using CSS transitions, including the links in the Defining transitions section of the article.
   - [x] Read the MDN article about the stacking context for a deeper understanding.
