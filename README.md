@@ -28,6 +28,11 @@ Practice: Go to the CSS exercises repository and do the exercises in the ‘anim
   - [x] pop-up
   ---
   
-  ##### Introduction To Web Accessibility
+  ##### Introduction To Web Accessibility total time 45min
   - [x] No additional assignments to read or complete.
+
+  ---
+  ##### The Web Content Accessibility Guidelines (WCAG) total time 45min
+  - [x] Read through the WCAG Overview page.
+  - [x] Skim through WebAIM’s WCAG 2 Checklist.
 
