@@ -54,3 +54,6 @@ Practice: Go to the CSS exercises repository and do the exercises in the ‘anim
   ##### Meaningful Text total time 7min
   - [x] No additional assignments to read or complete.
 
+  ##### WAI-ARIA total time 10min
+  - [x] No additional assignments to read or complete.
+
