@@ -29,5 +29,5 @@ Practice: Go to the CSS exercises repository and do the exercises in the ‘anim
   ---
   
   ##### Introduction To Web Accessibility
-    - [x] No additional assignments to read or complete.
+  - [x] No additional assignments to read or complete.
 
