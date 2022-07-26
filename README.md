@@ -17,7 +17,7 @@ Assignments:
   - [x] Learn some handy hints on how to create performant CSS animations by reading this article and check out the link it provides to CSS Triggers to see how           an animatable CSS property may affect others.
   - [x] Learn how to catch and debug repaint issues with this great article from Dzhavat Ushev.
 ---
-##### Keyframes - total time xxx
+##### Keyframes - total time 1.25hr
 
 Assignment:
   - [x] Code along with the the MDN article for using CSS animations.
