@@ -50,3 +50,7 @@ Practice: Go to the CSS exercises repository and do the exercises in the ‘anim
   - [x] Watch What is Focus 
   - [x] Watch Controlling focus with tabindex to see how using the tabindex attribute can affect the tab order.
 
+  ---
+  ##### Meaningful Text total time 7min
+  - [x] No additional assignments to read or complete.
+
