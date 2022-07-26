@@ -41,3 +41,6 @@ Practice: Go to the CSS exercises repository and do the exercises in the ‘anim
   - [x] Read How screen readers navigate data tables
   - [x] Watch Why headings and landmarks are so important 
 
+  ##### Accessible Colors total time 30min
+  - [x] No additional assignments to read or complete.
+
