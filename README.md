@@ -26,5 +26,8 @@ Assignment:
 Practice: Go to the CSS exercises repository and do the exercises in the ‘animation’ folder in this order:
   - [x] button-hover
   - [x] pop-up
+  ---
   
+  ##### Introduction To Web Accessibility
+    - [x] No additional assignments to read or complete.
 
