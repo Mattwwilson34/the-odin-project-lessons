@@ -36,3 +36,8 @@ Practice: Go to the CSS exercises repository and do the exercises in the ‘anim
   - [x] Read through the WCAG Overview page.
   - [x] Skim through WebAIM’s WCAG 2 Checklist.
 
+  ---
+  ##### Semantic HTML total time 45min
+  - [x] Read How screen readers navigate data tables
+  - [x] Watch Why headings and landmarks are so important 
+
