@@ -21,7 +21,7 @@ Assignments:
 
 Assignment:
   - [x] Code along with the the MDN article for using CSS animations.
-  - [ ] Read the @keyframes reference to gain a deeper understanding of how keyframes are implemented.
+  - [x] Read the @keyframes reference to gain a deeper understanding of how keyframes are implemented.
   
 Practice: Go to the CSS exercises repository and do the exercises in the ‘animation’ folder in this order:
   - [ ] button-hover
